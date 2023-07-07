@@ -3,6 +3,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://t.me/gentslava" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" width="40" height="40"/>
+  </a>
+  <a href="https://vk.com/gentslava" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="gentslava" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/nashlubimiyslavik" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gentslava" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
