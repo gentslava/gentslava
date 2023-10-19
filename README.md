@@ -2,7 +2,7 @@
 <h3 align="center">Frontend developer / TAM from Russia</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<h6 align="left">
   <a href="https://t.me/gentslava" target="_blank" rel="noreferrer">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" height="30" width="40" />
   </a>
@@ -15,10 +15,10 @@
   <a href="https://instagram.com/nashlubimiyslavik" target="blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="30" />
   </a>
-</p>
+</h6>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h6 align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -79,7 +79,7 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
-</p>
+</h6>
 
 <!--p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gentslava&show_icons=true&locale=en&layout=compact" alt="gentslava" /></p-->
 
