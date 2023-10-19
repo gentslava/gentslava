@@ -81,8 +81,8 @@
   </a>
 </h6>
 
-<!--p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gentslava&show_icons=true&locale=en&layout=compact" alt="gentslava" /></p-->
+<!--p><img align="left" src="https://readme-stats-gentslava.vercel.app/api/top-langs?username=gentslava&show_icons=true&locale=en&layout=compact" alt="gentslava" /></p-->
 
-<!--p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gentslava&show_icons=true&locale=en" alt="gentslava" /></p-->
+<!--p><img align="center" src="https://readme-stats-gentslava.vercel.app/api?username=gentslava&show_icons=true&locale=en&show=reviews" alt="gentslava" /></p-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gentslava&" alt="gentslava statistics" /></p>
+<p><img align="center" src="https://readme-streak-stats-gentslava.vercel.app/?user=gentslava&date_format=j%20M%5B%20Y%5D&exclude_days=Sat%2CSun" alt="gentslava statistics" /></p>
