@@ -1,5 +1,15 @@
-<h1 align="center">👋 Hi, I'm Vyacheslav Scherbinin</h1>
+<h1 align="center">👋 Hi, I'm Vyacheslav</h1>
 <h3 align="center">Frontend developer / TAM from Russia</h3>
+
+<h3 align="left">About Me</h3>
+```javascript
+{
+  name: "Vyacheslav Scherbinin",
+  currently_working_on: "Home systems integration and automation",
+  who_i_am: ["Frontend Developer", "Team Lead", "Tech Lead", "Technology Enthusiast", "Continuous Learner"];
+  age: 26
+}
+```
 
 <h3 align="left">Connect with me:</h3>
 <h6 align="left">
