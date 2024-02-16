@@ -2,6 +2,7 @@
 <h3 align="center">Frontend developer / TAM from Russia</h3>
 
 <h3 align="left">About Me</h3>
+
 ```javascript
 {
   name: "Vyacheslav Scherbinin",
