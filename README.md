@@ -8,7 +8,7 @@
   name: "Vyacheslav Scherbinin",
   currently_working_on: "Home systems integration and automation",
   who_i_am: ["Developer", "Team Lead", "Technology Enthusiast", "Continuous Learner"],
-  age: 27
+  age: 28
 }
 ```
 
